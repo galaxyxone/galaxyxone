@@ -10,7 +10,7 @@ We have a few projects brewing up here at GalaxyX.io and were happy to show you 
 - 👀 I’m interested in decentralized systems, peer-to-peer networks, security basics, and crypto/blockchain networks
 - 🌱 I’m currently learning React, JS, Solidity
 - 💞️ I’m looking to collaborate on IPFS javascript projects  
-- 📫 You can reach me at llentz@galaxyx.io
+- 📫 You can reach me at llentz@galaxyx.io or view my teams website at galaxyx.io
 
 <!---
 galaxyxone/galaxyxone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

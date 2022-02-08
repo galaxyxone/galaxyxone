@@ -2,7 +2,7 @@
 
 We have a few projects brewing up here at GalaxyX.io and were happy to show you more- Right now mainly we are focusing on verifying/hashing data using IPFS. 
 
-  We started with a webapp built on React and Node.js using Auth0 for our login. Our Alpha is hosted at galerielestudio.com
+  We started with a webapp built on React and Node.js using Auth0 for our login. Our Alpha is hosted at https://www.galerielestudio.com
   
  you can find that project at github.com/galaxyxone/auth0_2
 

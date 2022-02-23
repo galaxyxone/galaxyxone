@@ -4,7 +4,7 @@ We have a few projects brewing up here at GalaxyX.io and were happy to show you 
 
   We started with a webapp built on React and Node.js using Auth0 for our login. Our Alpha is hosted at https://www.galerielestudio.com
   
- you can find that project at github.com/galaxyxone/glsx_live1.2
+ you can find that project at github.com/galaxyxone/glsx_live2.1
 
 
 - 👀 I’m interested in decentralized systems, peer-to-peer networks, security basics, and crypto/blockchain networks
